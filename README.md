@@ -16,11 +16,11 @@ In this tutorial you will get a brief introduction to Python programming. Even w
    3. conda-forge
    4. Text Editor or IDE?
 2.	How to read a documentation
-3.	The >>> prompt and basic built-in functions (print(), format(), type(), help())
+3.	The ```>>>``` prompt and basic built-in functions (```print()```, ```format()```, ```type()```, and ```help()```)
 4. Command line programs
    1. sdsdgf
    2. dfgsdfg
-   1.	Writing, formatting and organizing a *.py file
+   1.	Writing, formatting and organizing a ```*.py``` file
    2.	If statement
    3.	For and While loop
    4.	Try statement
@@ -28,9 +28,9 @@ In this tutorial you will get a brief introduction to Python programming. Even w
    6.	Parsing arguments
    7.	Traceback and error handling.
    8.	“Hello Frank, it’s 12:39 on Tuesday March 15th, 2018”
-5.	Image processing (using scikit-image)
+5.	Image processing (using ```scikit-image```)
 6.	Plotting graphs with matplotlib
-7.	Batch download data with wget
+7.	Batch download data with ```wget```
 8.	Student projects
 9.	(Database interaction)
 
