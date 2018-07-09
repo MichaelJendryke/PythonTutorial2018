@@ -17,7 +17,9 @@ In this tutorial you will get a brief introduction to Python programming. Even w
    4. Text Editor or IDE?
 2.	How to read a documentation
 3.	The >>> prompt and basic built-in functions (print(), format(), type(), help())
-4.	Command line programs
+4. Command line programs
+   1. sdsdgf
+   2. dfgsdfg
    1.	Writing, formatting and organizing a *.py file
    2.	If statement
    3.	For and While loop
