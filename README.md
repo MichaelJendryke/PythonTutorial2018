@@ -8,24 +8,30 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 * A project or an idea what you would like to program that may help you with your research
 * Anaconda for Python 3.6 (download the right version for your system from  https://www.anaconda.com/download/ ). We will install this together.
 
+1. sdfgsdfg
+   1. sfsdfg
+   2. 3245345
+2. dsfgsdfg
+
+
 ## Suggested topics 
 (let me know if you want to cover additional topics)
 1. Setup of Anaconda Environment
-   1.1. Creating a development environment 
-   1.2. Package management
-   1.3. conda-forge
-   1.4. Text Editor or IDE?
+   1. Creating a development environment 
+   2. Package management
+   3. conda-forge
+   4. Text Editor or IDE?
 2.	How to read a documentation
 3.	The >>> prompt and basic built-in functions (print(), format(), type(), help())
 4.	Command line programs
-  4.1.	Writing, formatting and organizing a *.py file
-  4.2.	If statement
-  4.3.	For and While loop
-  4.4.	Try statement
-  4.5.	Functions
-  4.6.	Parsing arguments
-  4.7.	Traceback and error handling.
-  4.8.	“Hello Frank, it’s 12:39 on Tuesday March 15th, 2018”
+  1.	Writing, formatting and organizing a *.py file
+  2.	If statement
+  3.	For and While loop
+  4.	Try statement
+  5.	Functions
+  6.	Parsing arguments
+  7.	Traceback and error handling.
+  8.	“Hello Frank, it’s 12:39 on Tuesday March 15th, 2018”
 5.	Image processing (using scikit-image)
 6.	Plotting graphs with matplotlib
 7.	Batch download data with wget
