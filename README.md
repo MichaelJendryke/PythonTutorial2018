@@ -1,15 +1,15 @@
-#Python Tutorial (13-15 July)
+# Python Tutorial (13-15 July)
 In this tutorial you will get a brief introduction to Python programming. Even without prior knowledge of any programming language you should be able to follow along. Since the group is very small I will make this tutorial as interactive as possible. Most of the time you will be coding yourself to have as much hands-on experience as possible. As I do not know how fast/slow we will be able to move through the content I encourage you to think of a programming problem (from your research) yourself, which we will discuss and hopefully implement as well.
 
-##Preparation
+## Preparation
 •	Please visit http://www.learnpython.org/en/Welcome and go through the examples in “Learn the Basics”. You can run the code online and do not need to install anything. We will repeat some of the exercises during the tutorial. 
 
-##Requirements
+## Requirements
 •	A computer
 •	A project or an idea what you would like to program that may help you with your research
 •	Anaconda for Python 3.6 (download the right version for your system from  https://www.anaconda.com/download/ ). We will install this together.
 
-##Suggested topics (let me know if you want to cover additional topics).
+## Suggested topics (let me know if you want to cover additional topics).
 1.	Setup of Anaconda Environment
 1.1.	Creating a development environment 
 1.2.	Package management
@@ -32,6 +32,6 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 8.	Student projects
 9.	(Database interaction)
 
-##Goals
+## Goals
 Be able to set up your python programming environment; use command line arguments to read, modify and write files (text and images); plot graphs and figures, batch download data from the internet; and if time permits, interact with a database. 
 
