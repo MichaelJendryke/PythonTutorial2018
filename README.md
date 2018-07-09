@@ -24,14 +24,14 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 2.	How to read a documentation
 3.	The >>> prompt and basic built-in functions (print(), format(), type(), help())
 4.	Command line programs
-  1.	Writing, formatting and organizing a *.py file
-  2.	If statement
-  3.	For and While loop
-  4.	Try statement
-  5.	Functions
-  6.	Parsing arguments
-  7.	Traceback and error handling.
-  8.	“Hello Frank, it’s 12:39 on Tuesday March 15th, 2018”
+   1.	Writing, formatting and organizing a *.py file
+   2.	If statement
+   3.	For and While loop
+   4.	Try statement
+   5.	Functions
+   6.	Parsing arguments
+   7.	Traceback and error handling.
+   8.	“Hello Frank, it’s 12:39 on Tuesday March 15th, 2018”
 5.	Image processing (using scikit-image)
 6.	Plotting graphs with matplotlib
 7.	Batch download data with wget
