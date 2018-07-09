@@ -11,10 +11,10 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 ## Suggested topics 
 (let me know if you want to cover additional topics)
 1. Setup of Anaconda Environment
-   1.1.	Creating a development environment 
-   1.2.	Package management
-   1.3.	conda-forge
-   1.4.	Text Editor or IDE?
+   1.1. Creating a development environment 
+   1.2. Package management
+   1.3. conda-forge
+   1.4. Text Editor or IDE?
 2.	How to read a documentation
 3.	The >>> prompt and basic built-in functions (print(), format(), type(), help())
 4.	Command line programs
