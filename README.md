@@ -15,6 +15,7 @@ In this tutorial you will get a brief introduction to Python programming. Even w
    2. Package management
    3. conda-forge
    4. Text Editor or IDE?
+   5. Track your code changes with ```git```
 2.	How to read a documentation
 3.	The ```>>>``` prompt and basic built-in functions (```print()```, ```format()```, ```type()```, and ```help()```)
 4. Command line programs
