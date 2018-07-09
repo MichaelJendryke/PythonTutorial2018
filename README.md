@@ -5,11 +5,12 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 •	Please visit http://www.learnpython.org/en/Welcome and go through the examples in “Learn the Basics”. You can run the code online and do not need to install anything. We will repeat some of the exercises during the tutorial. 
 
 ## Requirements
-•	A computer
 •	A project or an idea what you would like to program that may help you with your research
+
 •	Anaconda for Python 3.6 (download the right version for your system from  https://www.anaconda.com/download/ ). We will install this together.
 
-## Suggested topics (let me know if you want to cover additional topics).
+## Suggested topics 
+(let me know if you want to cover additional topics)
 1.	Setup of Anaconda Environment
 1.1.	Creating a development environment 
 1.2.	Package management
@@ -33,5 +34,5 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 9.	(Database interaction)
 
 ## Goals
-Be able to set up your python programming environment; use command line arguments to read, modify and write files (text and images); plot graphs and figures, batch download data from the internet; and if time permits, interact with a database. 
+Be able to set up your python programming environment; use command line arguments to read, modify and write files (text and images); plot graphs and figures; batch download data from the internet; and (if time permits) interact with a database. 
 
