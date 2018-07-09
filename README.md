@@ -8,12 +8,6 @@ In this tutorial you will get a brief introduction to Python programming. Even w
 * A project or an idea what you would like to program that may help you with your research
 * Anaconda for Python 3.6 (download the right version for your system from  https://www.anaconda.com/download/ ). We will install this together.
 
-1. sdfgsdfg
-   1. sfsdfg
-   2. 3245345
-2. dsfgsdfg
-
-
 ## Suggested topics 
 (let me know if you want to cover additional topics)
 1. Setup of Anaconda Environment
