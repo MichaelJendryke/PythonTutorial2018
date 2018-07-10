@@ -1,6 +1,6 @@
 ## Creating and Environment
 
-- open the Anaconda Prompt (usually located at C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit))
+- open the Anaconda Prompt (usually located at ```C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Anaconda3 (64-bit)```)
 - type
 ```
 conda create -n <nameOfEnvironment> python=<version> <pakage>
