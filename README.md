@@ -265,7 +265,8 @@ E.g if the log level is WARNING then ERROR and CRITICAL will also be printed.
 - Follow along as I write the ```log.py``` script
 - Task:
    - Create messages with different log levels.
-   - Change the date format
+   - Change the date format.
+   - Log to a file instead of the command line.
 
 ### ```arguments.py```
 - Follow along as I write the ```arguments.py``` script
